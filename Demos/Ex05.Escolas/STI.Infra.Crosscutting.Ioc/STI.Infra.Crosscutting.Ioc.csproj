@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.0;net462;net461;NETCOREAPP1.1</TargetFrameworks>
+    <AssemblyVersion>1.0.0.0935</AssemblyVersion>
+    <FileVersion>1.0.0.0935</FileVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Society Tecnologia da Informação LTDA - Pesquisa e Desenvolvimento</Authors>
+    <Company>Society Tecnologia da Informação LTDA</Company>
+    <Description>Abstração para uso de container de injeção de dependencia em projetos</Description>
+    <Copyright>STI 2018</Copyright>
+  </PropertyGroup>
+
+</Project>
